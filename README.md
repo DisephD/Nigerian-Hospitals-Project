@@ -55,9 +55,9 @@ The [Humanitarian Data Exchange](https://https://data.humdata.org/dataset/nigeri
 4. The file (map.html) contains a folium map which renders to the tableau dashboard.
 
 ## Images
-![dashboard_image](assets/Screenshot (217).png)
-![dashboard_image](assets/Screenshot (218).png)
-![dashboard_image](assets/Screenshot (219).png)
+![dashboard_image](image-1.png)
+![dashboard_image](image-2.png)
+![dashboard_image](image-3.png)
 
 ## Contact
 For any inquiries, feedback, or issues, please reach out to me via disephdumigoni@gmail.com, with the subject "Nigerian Hospitals Project".
