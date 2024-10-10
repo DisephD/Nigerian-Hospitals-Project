@@ -5,27 +5,21 @@ This project provides a detailed analysis of the distribution of hospitals acros
 
 ## Table of Contents
 1. Project Description
-2. What Problem it solves
-3. My Motivation
-4. Features
-5. Technologies Used
-6. Data Source
-7. Usage
-8. Images
-9. Contributing
-10. License
-11. Contact
+2. My Motivation
+3. Features
+4. Technologies Used
+5. Data Source
+6. Structure
+7. Images
+8. Contact
 
 ## Project Description
 In this project, I performed a geo-spatial analysis of healthcare facilities across Nigeria. The main objective was to visualize the distribution of hospitals, compare the number of hospitals to population density, and explore potential gaps in healthcare access.
 You can explore the Tableau Dashboard for this project [here](https://https://public.tableau.com/app/profile/diseph.igoni/viz/Geo-spatialAnalysisNigerianHospitals_/DashboardHome?publish=yes)
 
-## What problem it solves:
-The project helps identify regions with limited access to hospitals and provides insights that can assist policymakers in planning future healthcare infrastructure in Nigeria.
-
 ## My Motivation
 ### Why I built it:
-Healthcare is a critical sector, especially in developing nations like Nigeria. I was motivated to build this project to better understand the distribution of healthcare infrastructure across the country and identify areas where more healthcare services might be needed. 
+Healthcare is a critical sector, especially in developing nations like Nigeria. I was motivated to build this project to better understand the distribution of healthcare infrastructure across the country and identify areas where more healthcare services might be needed. The project helps identify regions with limited access to hospitals and provides insights that can assist policymakers in planning future healthcare infrastructure in Nigeria.
 
 ### What I learnt:
 Working on this project taught me valuable lessons in handling geo-spatial data, as well as large data. 
@@ -58,13 +52,12 @@ The [Humanitarian Data Exchange](https://https://data.humdata.org/dataset/nigeri
 * The first file "data_cleaning.py" contains all the steps used to process and clean the data.
 * The second file "visuals.py" contains additional visualizations used to explore the data which were not included in the final report. 
 * The nested folder "distance calc trials" contains the various methods used to arrive at a most optimised calculation of geographical distances.
-
 4. The file (map.html) contains a folium map which renders to the tableau dashboard.
 
 ## Images
-[dashboard_image](assets/Screenshot (217).png)
-[dashboard_image](assets/Screenshot (218).png)
-[dashboard_image](assets/Screenshot (219).png)
+![dashboard_image](assets/Screenshot (217).png)
+![dashboard_image](assets/Screenshot (218).png)
+![dashboard_image](assets/Screenshot (219).png)
 
 ## Contact
 For any inquiries, feedback, or issues, please reach out to me via disephdumigoni@gmail.com, with the subject "Nigerian Hospitals Project".
