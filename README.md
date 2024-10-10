@@ -45,14 +45,14 @@ The data for this project is sourced from:
 The [Humanitarian Data Exchange](https://https://data.humdata.org/dataset/nigeria-hospitals-and-clinics-with-registration-status-and-location) platform, which was provided by the Nigeria Federal Ministry of Health.
 
 ## Structure
-1. The folder "assets" contains the dashboard images for this Readme file.
-2. The folder "data" contains the source and modified data files used in this project.
-2. The file "dashboard" contains the link to the final tableau report.
-3. The folder "scripts" houses two python files and one folder. 
-* The first file "data_cleaning.py" contains all the steps used to process and clean the data.
-* The second file "visuals.py" contains additional visualizations used to explore the data which were not included in the final report. 
-* The nested folder "distance calc trials" contains the various methods used to arrive at a most optimised calculation of geographical distances.
-4. The file (map.html) contains a folium map which renders to the tableau dashboard.
+1. The [assets](/assets) folder contains the dashboard images for this Readme file.
+2. The [data](/data) folder contains the source and modified data files used in this project.
+2. The file [dashboard](/dashboard.txt) contains the link to the final tableau report.
+3. The folder [scripts](/scripts) houses two python files and one folder. 
+* The first file [data_cleaning](/scripts/data_cleaning.py) contains all the steps used to process and clean the data.
+* The second file contains additional visualizations used to explore the data which were not included in the final report. 
+* The nested folder [distance_calc_trials](/scripts/distance_calc_trials) contains the various methods used to arrive at a most optimised calculation of geographical distances.
+4. The file [map.html](/map.html) contains a folium map which renders to the tableau dashboard.
 
 ## Images
 ![dashboard_image](/assets/image-1.png)
