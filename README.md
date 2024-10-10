@@ -1,7 +1,5 @@
 # Nigerian-Hospitals-Project
 
-# Nigerian-Hospitals-Project
-
 ## Overview
 This project provides a detailed analysis of the distribution of hospitals across Nigeria. It includes visualisation of hospital locations, calculation of geographical distances, and insights into healthcare access across the different states and regions of the country. The project aims to assist in identifying areas with healthcare needs and promote data-driven decision-making for healthcare infrastructural development.
 
@@ -64,7 +62,9 @@ The [Humanitarian Data Exchange](https://https://data.humdata.org/dataset/nigeri
 4. The file (map.html) contains a folium map which renders to the tableau dashboard.
 
 ## Images
-
+[dashboard_image](assets/Screenshot (217).png)
+[dashboard_image](assets/Screenshot (218).png)
+[dashboard_image](assets/Screenshot (219).png)
 
 ## Contact
 For any inquiries, feedback, or issues, please reach out to me via disephdumigoni@gmail.com, with the subject "Nigerian Hospitals Project".
