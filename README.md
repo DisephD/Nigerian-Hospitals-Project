@@ -44,6 +44,33 @@ I improved my skills in using Python libraries like Geopandas, and gained a deep
 The data for this project is sourced from:
 The [Humanitarian Data Exchange](https://https://data.humdata.org/dataset/nigeria-hospitals-and-clinics-with-registration-status-and-location) platform, which was provided by the Nigeria Federal Ministry of Health.
 
+## Key Insights
+1. ## Hospital Distribution:
+- 42,063 hospitals/clinics exist in Nigeria, with 96% operational.
+- Each state has an average of 1,000 hospitals, with Lagos State leading at 2,372 hospitals, and Bayelsa trailing with only 320 hospitals.
+
+2. ## Hospital Establishment Trends:
+- More hospitals were established between 1999-2001.
+- A notable decline in hospital construction has occurred since 2020.
+
+3. ## Public vs. Private Facilities:
+- 74% of hospitals are public, indicating strong government involvement in healthcare.
+- 85% are primary facilities, with fewer secondary (14%) and tertiary facilities (<1%).
+
+4. ## Facility Levels:
+- Hospitals are categorized into primary, secondary, and tertiary, based on the complexity of cases they handle.
+- Tertiary facilities are mostly found in the North-West zone, with Kaduna State having the highest number.
+
+5. ## Regional Variations:
+- The North-West geopolitical zone has the highest number of hospitals (8,557), while the South-South zone has the lowest (5,017).
+- Nasarawa State leads in the number of unlicensed and unregistered hospitals, followed by Benue, Kaduna, Sokoto, and Cross River.
+
+6. ## Travel Distances Between Facilities:
+- On average, the distance between facilities ranges from 0 to 850 kilometers.
+Traveling at 45 km/h, it takes approximately:
+- 1 hour 47 minutes to drive from a primary to a secondary facility.
+- 1 hour 20 minutes to drive from a secondary to a tertiary facility.
+
 ## Structure
 1. The [assets](/assets) folder contains the dashboard images for this Readme file.
 2. The [data](/data) folder contains the source and modified data files used in this project.
