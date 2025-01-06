@@ -4,14 +4,15 @@
 This project provides a detailed analysis of the distribution of hospitals across Nigeria. It includes visualisation of hospital locations, calculation of geographical distances, and insights into healthcare access across the different states and regions of the country. The project aims to assist in identifying areas with healthcare needs and promote data-driven decision-making for healthcare infrastructural development.
 
 ## Table of Contents
-1. Project Description
-2. My Motivation
-3. Features
-4. Technologies Used
-5. Data Source
-6. Structure
-7. Images
-8. Contact
+1. [Project Description](#project-description)
+2. [My Motivation](#my-motivation)
+3. [Features](#features)
+4. [Technologies Used](#technologies-used)
+5. [Data Source](#data-source)
+6. [Key Insights](#key-insights)
+7. [Structure](#structure)
+8. [Images](#images)
+9. [Contact](#Contact)
 
 ## Project Description
 In this project, I performed a geo-spatial analysis of healthcare facilities across Nigeria. The main objective was to visualize the distribution of hospitals, compare the number of hospitals to population density, and explore potential gaps in healthcare access.
@@ -45,27 +46,27 @@ The data for this project is sourced from:
 The [Humanitarian Data Exchange](https://https://data.humdata.org/dataset/nigeria-hospitals-and-clinics-with-registration-status-and-location) platform, which was provided by the Nigeria Federal Ministry of Health.
 
 ## Key Insights
-1. ## Hospital Distribution:
+1. ### Hospital Distribution:
 - 42,063 hospitals/clinics exist in Nigeria, with 96% operational.
 - Each state has an average of 1,000 hospitals, with Lagos State leading at 2,372 hospitals, and Bayelsa trailing with only 320 hospitals.
 
-2. ## Hospital Establishment Trends:
+2. ### Hospital Establishment Trends:
 - More hospitals were established between 1999-2001.
 - A notable decline in hospital construction has occurred since 2020.
 
-3. ## Public vs. Private Facilities:
+3. ### Public vs. Private Facilities:
 - 74% of hospitals are public, indicating strong government involvement in healthcare.
 - 85% are primary facilities, with fewer secondary (14%) and tertiary facilities (<1%).
 
-4. ## Facility Levels:
+4. ### Facility Levels:
 - Hospitals are categorized into primary, secondary, and tertiary, based on the complexity of cases they handle.
 - Tertiary facilities are mostly found in the North-West zone, with Kaduna State having the highest number.
 
-5. ## Regional Variations:
+5. ### Regional Variations:
 - The North-West geopolitical zone has the highest number of hospitals (8,557), while the South-South zone has the lowest (5,017).
 - Nasarawa State leads in the number of unlicensed and unregistered hospitals, followed by Benue, Kaduna, Sokoto, and Cross River.
 
-6. ## Travel Distances Between Facilities:
+6. ### Travel Distances Between Facilities:
 - On average, the distance between facilities ranges from 0 to 850 kilometers.
 Traveling at 45 km/h, it takes approximately:
 - 1 hour 47 minutes to drive from a primary to a secondary facility.
